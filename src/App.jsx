@@ -23,7 +23,7 @@ function App() {
      >
      
      Workshop on AI/ML
-     <div className=''> By </div>
+     <div className=''> By. </div>
     
      <div className=''>Speaker Name </div>
      </motion.h1>
