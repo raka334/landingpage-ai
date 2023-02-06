@@ -12,7 +12,7 @@ function App() {
      <AnimatePresence>
      <motion.h1 className="text-center p-6"
      
-     layout
+     
     initial={{opacity:0}}
     animate={{opacity:1}}
      transition={{
