@@ -5,12 +5,12 @@ import "./index.css"
 import {AnimatePresence, motion}  from "framer-motion"
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <div>
      <AnimatePresence>
-     <motion.h1 className="text-center p-6"
+     <motion.h1 className="text-center p-6  uppercase sm:lowercase"
      
      
     initial={{opacity:0}}
